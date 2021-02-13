@@ -29,3 +29,4 @@ C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestio
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionClotureTest\obj\Debug\gestionClotureTest.csproj.CopyComplete
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionClotureTest\obj\Debug\gestionClotureTest.dll
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionClotureTest\obj\Debug\gestionClotureTest.pdb
+C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionClotureTest\bin\Debug\gestionCloture.xml

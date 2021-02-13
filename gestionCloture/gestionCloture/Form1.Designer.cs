@@ -1,4 +1,4 @@
-﻿
+
 namespace gestionCloture
 {
     partial class Form1
@@ -30,12 +30,29 @@ namespace gestionCloture
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            this.myTimer = new System.Windows.Forms.Timer(this.components);
+            this.SuspendLayout();
+            // 
+            // myTimer
+            // 
+            this.myTimer.Interval = 60000;
+            this.myTimer.Tick += new System.EventHandler(this.myTimer_Tick);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+
         }
 
-        #endregion
-    }
+    #endregion
+
+    private System.Windows.Forms.Timer myTimer;
+  }
 }
 

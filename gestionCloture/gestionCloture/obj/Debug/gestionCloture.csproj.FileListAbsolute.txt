@@ -23,3 +23,5 @@ C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestio
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionCloture\obj\Debug\gestionCloture.csproj.CopyComplete
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionCloture\obj\Debug\gestionCloture.exe
 C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionCloture\obj\Debug\gestionCloture.pdb
+C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionCloture\obj\Debug\gestionCloture.Form1.resources
+C:\Users\vielf\Documents\Mike\Visual Studio\gestionCloture\gestionCloture\gestionCloture\bin\Debug\gestionCloture.xml
