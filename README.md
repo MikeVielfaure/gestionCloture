@@ -2,7 +2,7 @@
 
 ### Objectifs :
 
-1.Mettre en oeuvre une application Android, qui permet aux visiteurs de saisirs des frais et d'envoyer ces informations sur un serveur web qui se chargera ensuite de mettre à jour la base de données.
+1.Mettre en oeuvre une application Windows qui permet de mettre à jour, en fonction de la date, les status des fiches de frais sur la base de données distante.
 
 - **Visual Studio** : Environnement de développement intégré (IDE) utilisé pour ce projet.
 - **C#** : Langage de programmation utilisé pour concevoir la solution.
